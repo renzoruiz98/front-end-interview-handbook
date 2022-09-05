@@ -4,17 +4,20 @@ slug: front-end-system-design/applications
 sidebar_label: Applications
 ---
 
-:::caution
+:::info Read front end system design case studies
 
-This page is still work in progress.
+[GreatFrontEnd](https://www.greatfrontend.com/system-design) shows you how to approach front end system design interviews with their [front end system design guide](https://www.greatfrontend.com/system-design) and case studies. Start reading today!
 
 :::
 
+
 ## Examples
 
-- Social network
+- News feed (e.g. Facebook) — [Read example solution on GreatFrontEnd](https://www.greatfrontend.com/questions/system-design/news-feed-facebook)
+- E-commerce marketplace (e.g. Amazon) — [Read example solution on GreatFrontEnd](https://www.greatfrontend.com/questions/system-design/e-commerce-amazon) (Paid)
+- Chat application (e.g. Messenger) — [Read example solution on GreatFrontEnd](https://www.greatfrontend.com/questions/system-design/chat-application-messenger) (Paid)
+- Photo sharing application (e.g. Instagram) — [Read example solution on GreatFrontEnd](https://www.greatfrontend.com/questions/system-design/photo-sharing-instagram) (Paid)
 - Video watching website
-- Chat application
 - Mail application
 
 ## Framework
@@ -47,17 +50,19 @@ Architecture for front end interviews are typically focused on the client-side a
 
 For applications, common architectures include Model-View-Controller, Model-View-ViewModel, Flux, N-tier (where data tier is on the client) etc.
 
+:::info Read front end system design case studies
+
+[GreatFrontEnd](https://www.greatfrontend.com/system-design) shows you how to approach front end system design interviews with their [front end system design guide](https://www.greatfrontend.com/system-design) and case studies. Start reading today!
+
+:::
+
 ### Data model
 
 Client app state, which is a combination of server state (database) and true client state (non-persisted to the server).
 
-TBD.
-
 ### API design
 
 API design for applications will refer to the HTTP/network API parameters and the shape of the responses.
-
-TBD.
 
 ### Deep dives
 
@@ -83,3 +88,9 @@ Many companies blog about their technical challenges in the front end domain and
 - [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
 - [A React And Preact Progressive Web App Performance Case Study: Treebo](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
 - [Rebuilding our tech stack for the new Facebook.com](https://engineering.fb.com/2020/05/08/web/facebook-redesign/)
+
+:::info Read front end system design case studies
+
+[GreatFrontEnd](https://www.greatfrontend.com/system-design) shows you how to approach front end system design interviews with their [front end system design guide](https://www.greatfrontend.com/system-design) and case studies. Start reading today!
+
+:::

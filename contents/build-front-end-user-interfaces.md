@@ -16,10 +16,10 @@ Companies that ask such questions usually ask candidates to code in one of these
 ## Examples
 
 - Components
-  - Tabs
-  - Accordion
+  - Tabs — [Practice on GreatFrontEnd](https://www.greatfrontend.com/questions/user-interface/tabs) (Paid)
+  - Accordion — [Practice on GreatFrontEnd](https://www.greatfrontend.com/questions/user-interface/accordion) (Paid)
   - Photo Gallery
-  - Other possible components - [Refer to Bootstrap's list](https://getbootstrap.com/docs/4.0/components/)
+  - Other possible components—- [Refer to Bootstrap's list](https://getbootstrap.com/docs/4.0/components/)
 - Apps
   - Sortable Data Table (with extensions for filtering)
   - TODO list
@@ -30,6 +30,12 @@ Companies that ask such questions usually ask candidates to code in one of these
   - Wordle
   - Tetris (advanced)
   - Snake (advanced)
+
+:::info Practice UI coding questions on GreatFrontEnd
+
+Not sure how to start? [GreatFrontEnd](https://www.greatfrontend.com/?fpr=frontendinterviewhandbook) has front end interview [study plans](https://www.greatfrontend.com/get-started?fpr=frontendinterviewhandbook) and a [huge question bank of coding questions](https://www.greatfrontend.com/questions/js/coding/user-interface?fpr=frontendinterviewhandbook). Start practicing today!
+
+:::
 
 ## Considerations
 
@@ -83,3 +89,9 @@ Does your component scale (latency, performance, UI, UX, etc)?
 ### Future
 
 Lastly, mention how you would do things differently if you had more time and were writing production code that you need to maintain. Perhaps use Sass instead of CSS, use React instead of jQuery for better maintainability, use Babel to compile your code for older browsers, make the component mobile-friendly and test on different screen widths, add keyboard shortcuts, etc.
+
+:::info Practice UI coding questions on GreatFrontEnd
+
+Not sure how to start? [GreatFrontEnd](https://www.greatfrontend.com/?fpr=frontendinterviewhandbook) has front end interview [study plans](https://www.greatfrontend.com/get-started?fpr=frontendinterviewhandbook) and a [huge question bank of coding questions](https://www.greatfrontend.com/questions/js/coding/user-interface?fpr=frontendinterviewhandbook). Start practicing today!
+
+:::

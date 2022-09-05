@@ -12,6 +12,13 @@ The [Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/s
 
 <a className="button button--primary" href="https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/">Go to Tech Interview Handbook &nbsp;→</a>
 
+## Free practice questions
+
+### GreatFrontEnd
+
+[GreatFrontEnd](https://www.greatfrontend.com/?fpr=frontendinterviewhandbook) provides [**free** questions for you to practice implementing Data Structures and Algorithms in JavaScript](https://www.greatfrontend.com/questions/js/coding/data-structures-algorithms?fpr=frontendinterviewhandbook). You can practice implementing common data structures (e.g. [Stacks](https://www.greatfrontend.com/questions/javascript/stack), [Queues](https://www.greatfrontend.com/questions/javascript/queue)) and algorithms (e.g. [Binary Search](https://www.greatfrontend.com/questions/javascript/binary-search), [Merge Sort](https://www.greatfrontend.com/questions/javascript/merge-sort)).
+
+
 ## Algorithm courses
 
 ### [AlgoMonster](https://shareasale.com/r.cfm?b=1873647&u=3114753&m=114505&urllink=&afftrack=)
@@ -31,3 +38,9 @@ If you want more structured algorithms practice which are targeted at JavaScript
 | [Master the Coding Interview: Data Structures + Algorithms](https://fxo.co/DQpY) | 4.6/5 | 19.5h | $$ | Basic data structures and algorithms, job application, behavioral interview, negotiation |
 | [JavaScript Data Structures and Algorithms Masterclass](https://fxo.co/DQpZ) | 4.5/5 | 45h | $ | Basic and advanced data structures and algorithms |
 | [Ace the JavaScript Coding Interview](https://www.educative.io/path/ace-javascript-coding-interview?aff=x23W) | - | 87h | $ | Basic data structures and algorithms, system design, object-oriented design |
+
+:::info Practice Data Structures and Algorithms coding questions on GreatFrontEnd
+
+Not sure how to start? [GreatFrontEnd](https://www.greatfrontend.com/?fpr=frontendinterviewhandbook) has front end interview [study plans](https://www.greatfrontend.com/get-started?fpr=frontendinterviewhandbook) and a [huge question bank of coding questions](https://www.greatfrontend.com/questions/js/coding/data-structures-algorithms?fpr=frontendinterviewhandbook). Start practicing today!
+
+:::
